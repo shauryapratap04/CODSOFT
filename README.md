@@ -12,7 +12,7 @@ A simple calculator using HTML, CSS, and JavaScript. It handles basic arithmetic
 ### 🌐 [Portfolio Website](https://shauryapratap04.github.io/codsoft-web-dev-internship/portfolio/)
 A responsive personal portfolio showcasing my bio, skills, projects, and resume. Designed using only HTML and CSS.
 
-### 🎯 [Landing Page](https://shauryapratap04.github.io/codsoft-web-dev-internship/landing-page/)
+### 🎯 [Landing Page](https://github.com/shauryapratap04/CODSOFT/tree/main/landing%20page)
 A basic landing page built to practice layout structure, spacing, and styling. Features a hero section, features section, and an about section.
 
 ---
