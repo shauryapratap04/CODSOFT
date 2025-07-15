@@ -9,7 +9,7 @@ This repository contains the Level 1 tasks I completed during my **CodSoft Web D
 ### 🔢 [Calculator](https://github.com/shauryapratap04/CODSOFT/tree/main/calculator)
 A simple calculator using HTML, CSS, and JavaScript. It handles basic arithmetic operations with a clean UI. I used CSS Grid to arrange the buttons and styled operator and number buttons differently for better clarity.
 
-### 🌐 [Portfolio Website](https://shauryapratap04.github.io/codsoft-web-dev-internship/portfolio/)
+### 🌐 [Portfolio Website](https://github.com/shauryapratap04/CODSOFT/tree/main/portfolio)
 A responsive personal portfolio showcasing my bio, skills, projects, and resume. Designed using only HTML and CSS.
 
 ### 🎯 [Landing Page](https://github.com/shauryapratap04/CODSOFT/tree/main/landing%20page)
